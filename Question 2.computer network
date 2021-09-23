@@ -1,0 +1,22 @@
+<html>
+<head><title>comuter network question2 </title>
+</head>
+<body> 
+<img src="C:\Users\user\Desktop/delhi university.JPG" hright=200 width=150 
+ <h1><b> Delhi university</b> </h2>
+<h3> NOrth campus </h3>
+<ol> 
+<li> hansraj </li>
+<li> hindu </li>
+<li>srcc </li>
+</ol>
+<h3> south campus </h3>
+<ul>
+<li>ramanujan </li>
+<li> gargi </li>
+<li>ramjas </li>
+</ul>
+<h2>this is first page </h2>
+<h4><a href="computer.html">Go to second page </a>
+</body>
+</html>
